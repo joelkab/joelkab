@@ -22,5 +22,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelkab&" alt="joelkab" /></p>
 
 ## 😂 Here is a random joke that'll make you laugh!
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
