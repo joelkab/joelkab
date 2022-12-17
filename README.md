@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ESBreview](https://github.com/joelkab/ESBreview2.0)
 
-- 🌱 I’m currently learning **Data structures**
+- 🌱 I’m currently learning **Data structures and algorithms**
 
 - 📫 How to reach me **joelkab123@gmail.com**
 
