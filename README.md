@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joel Kabura</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelkab&label=Profile%20views&color=0e75b6&style=flat" alt="joelkab" /> </p>
 
+Hi there! My name is Joel Kabura and I am a computer science student with a passion for learning and problem-solving. In my free time, I enjoy playing soccer, which is my favorite sport, and I also like to code on my own projects. On GitHub, you can find a collection of my personal projects and contributions to the open-source community. I am always looking for new opportunities to expand my knowledge and skills, and I am excited to be a part of the vibrant and innovative world of technology. Thank you for visiting my profile!
+
 - 🔭 I’m currently working on [ESBreview](https://github.com/joelkab/ESBreview2.0)
 
 - 🌱 I’m currently learning **Data structures and algorithms**
